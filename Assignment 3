@@ -13,7 +13,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
             User u1= new User();
-            u1.setName("Ritik Kaushik");
+            u1.setName("Prashant Mishra");
             Console.WriteLine(u1.getName());
             Console.ReadLine();
         }
@@ -46,7 +46,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -110,7 +110,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -201,7 +201,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -317,7 +317,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLoginDetails("Ritik", 21);
+            l1.setNameLoginDetails("Prashant", 21);
             l1.getProfile();
             Console.ReadLine();
         }
@@ -423,7 +423,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
             User u1= new User();
-            u1.setName("Ritik Kaushik");
+            u1.setName("Prashant Mishara");
             Console.WriteLine(u1.getName());
             Console.ReadLine();
         }
@@ -456,7 +456,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -520,7 +520,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -611,7 +611,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -651,7 +651,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            User l1 = new User();
-            l1.setName("Ritik");
+            l1.setName("Prashant");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
